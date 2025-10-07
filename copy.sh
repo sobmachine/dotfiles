@@ -793,7 +793,7 @@ if [ -d "$BACKUP_DIR_PATH" ]; then
     If you decide to restore your old configs, make sure to
     handle the updates or changes manually !!!
     "
-	echo -e "${MAGENTA}Kindly Visit and check https://github.com/vbloom-x3/dotfiles for the history of commits.${RESET}"
+	echo -e "${MAGENTA}Kindly Visit and check https://github.com/sobmachine/dotfiles for the history of commits.${RESET}"
 
 
   for FILE_NAME in "${FILES_TO_RESTORE[@]}"; do
